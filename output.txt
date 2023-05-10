@@ -1,0 +1,1 @@
+('the predicted of risk ', 'is normal ( 33.3 )  ')
